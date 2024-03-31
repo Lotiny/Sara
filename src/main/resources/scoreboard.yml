@@ -1,0 +1,30 @@
+scoreboard:
+  title: "&6&lTNT Tag"
+  lines:
+    waiting:
+      - "&7&m------------------"
+      - "Arena: &e<arena>"
+      - "Players: &e<players>"
+      - " "
+      - "Need &e<need_more> more players"
+      - "to start the game"
+      - " "
+      - "&7&oHana.club"
+      - "&7&m------------------"
+    starting:
+      - "&7&m------------------"
+      - "Arena: &e<arena>"
+      - "Players: &e<players>"
+      - " "
+      - "Starting in <start_in>"
+      - " "
+      - "&7&oHana.club"
+      - "&7&m------------------"
+    playing:
+      - "&7&m------------------"
+      - "Explosion in &e<explode_in>"
+      - " "
+      - "Remaining: &e<players> Players"
+      - " "
+      - "&7&oHana.club"
+      - "&7&m------------------"

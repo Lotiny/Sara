@@ -1,0 +1,5 @@
+name: Sara
+version: '${project.version}'
+main: me.lotiny.sara.Sara
+api-version: '1.13'
+authors: [Lotiny]

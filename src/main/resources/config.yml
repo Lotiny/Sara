@@ -1,0 +1,4 @@
+settings:
+  main-lobby-location: world, 0.0, 100.0, 0.0, 0.0, 0.0
+  # Time per in game round in second.
+  time-per-round: 30
